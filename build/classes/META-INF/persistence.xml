@@ -8,7 +8,7 @@
 			<property name="hibernate.connection.driver_class" value="org.postgresql.Driver"/>
 			<!-- <property name="hibernate.default_schema" value="usr01"/>
 			<property name="hibernate.connection.username" value="usr01"/>
-			<property name="hibernate.connection.password" value="qf48d8uv"/> -->
+			<property name="hibernate.connection.password" value="password"/> -->
 		</properties>
 	</persistence-unit>
 </persistence>
